@@ -1,0 +1,2 @@
+export const CLICK_DETAIL = "CLICK_DETAIL"
+export const GET_DETAIL_WEATHER = "GET_DETAIL_WEATHER"
